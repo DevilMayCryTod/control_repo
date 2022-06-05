@@ -1,4 +1,4 @@
 class role::db_server{
   include profile::db
-  include profil::base
+  include profile::base
 }
